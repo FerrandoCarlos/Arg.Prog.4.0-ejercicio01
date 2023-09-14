@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+}
+
+h1,h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+.iguales{
+    color:green;
+    text-align: left;
+   
+}
+
+#distinto{
+    color:blue;
+    text-align: left;
+    /* padding: 20px 35px; */
+}
+p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width:30rem;
+    padding: 20px 35px;
+}
